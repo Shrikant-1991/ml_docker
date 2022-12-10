@@ -28,6 +28,8 @@ def home():
 if __name__ == "__main__":
     app.run(host='0.0.0.0',Port=8080,debug=False)   
 
+#only for test
+#only chage is here
 # @app.route('/predict1')
 # def predict1():
 #     a = int(request.args.get('a'))
